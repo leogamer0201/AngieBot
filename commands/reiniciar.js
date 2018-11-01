@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 
-const token = ("NDk4MjE5MzU5NjM0OTgwOTAx.DprMXg.-Q_H9Vqkesa6R8oIpzKsB60JOuo")
+const token = ("Seu Token aqui")
 
 const ownerID = '458250352215588866'
 
