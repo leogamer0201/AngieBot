@@ -3,7 +3,7 @@ const config = require("./config.json");
 const db = require('quick.db');
 const cooldown = require("./cooldown.js");
 const utils = require("./utils.js");
-const ownerID = '458250352215588866';
+const ownerID = 'SEU ID AQUI';
 const prefix = '!!';
 const active = new Map();
 
