@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 
 const token = ("Seu Token aqui")
 
-const ownerID = '458250352215588866'
+const ownerID = 'Seu ID aqui'
 
 module.exports.run = async (client, message, args) =>{
   
